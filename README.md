@@ -1,9 +1,9 @@
 # Pathing
-Solve Euler based problems for finding paths through various objects
+**Solve Euler based problems for finding paths through various objects**
 
-Algorithm:
+## Algorithm
   Time compelxity: O(n)
   Average time: 0.04ms [example](https://github.com/william-pedersen/Pathing/blob/main/triangle.txt)
   
-Official:
+## Official
   Time complexity O(n²)
